@@ -1,0 +1,16 @@
+body{
+	background: green;
+	width: 400px;
+
+}
+
+h1{
+	color: yellow;
+}
+
+p{
+	color: Blue;
+	font-size: 14px;
+	font-family: Verdana;
+
+}
